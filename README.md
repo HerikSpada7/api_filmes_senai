@@ -5,10 +5,15 @@ Esse projeto basicamente utiliza API.
 ## 🚀 Começando
 
 O projeto inicialmente foi criado para aprender a utilizar a API
+
 **O Projeto utilizou as Migrations para conectar com o banco de dados**
+
 **Interfaces foram utilizadas para criar um vinculo entre o cliente e o banco de dados, ou seja, cadastrar, excluir e etc.**
+
 **Contrrolers foi criado para que o cliente consiga interagir com o cliente, enquanto s interfaces cria o vinculo é pelo controller que cada opção é feita com êxito, como criar um genero de filme**
+
 **Context fornece a forma de compartilhar dados como esses, entre todos componentes da mesma árvore de componentes e por isso é importante na criação da API**
+
 **Os Domains é criado para ser a base fundamental para a criação do site e a identidade. E por isso, ele foi utilizado**
 
 
